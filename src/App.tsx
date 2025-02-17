@@ -6,7 +6,7 @@ function App() {
 
   return (
     <>
-      <div>Home</div>
+      <div>Home Version 3</div>
     </>
   )
 }
